@@ -1,0 +1,12 @@
+
+Produto valido              :  f  t  t  t  t  t
+Carrinho valido	            :  -  f  t  t  t  t
+Produto nao esta no maximo	:  -  -  f  t  t  f
+Carrinho esta lotado        :  -  -  t  t  f  f                                          
+
+================================================
+                                                
+Erro produto                : x               
+Erro carrinho               :    x      
+Concluido                   :                x            
+Nao concluido               :    x  x   x  x  
